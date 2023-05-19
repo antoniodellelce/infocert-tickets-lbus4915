@@ -1,0 +1,3 @@
+[submodule "lbus-lbusonprem-apachelbhubdash"]
+	path = lbus-lbusonprem-apachelbhubdash
+	url = git@gitlab.mgmt.infocert.it:lbus/lbus-lbusonprem-group/lbus-lbusonprem-apachelbhubdash.git
